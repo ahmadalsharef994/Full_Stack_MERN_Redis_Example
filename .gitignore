@@ -1,0 +1,5 @@
+apiExpress/node_modules/
+client/node_modules/
+workerBE/node_modules/
+Redis-x64-3.2.100/
+.vscode/
